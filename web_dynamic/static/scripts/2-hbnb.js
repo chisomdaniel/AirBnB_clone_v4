@@ -1,3 +1,5 @@
+
+
 $('document').ready(function () {
   let amenities = {};
   $("INPUT[type="checkbox"]").change(function () {
